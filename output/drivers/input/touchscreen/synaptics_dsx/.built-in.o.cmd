@@ -1,1 +1,0 @@
-cmd_drivers/input/touchscreen/synaptics_dsx/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/input/touchscreen/synaptics_dsx/built-in.o drivers/input/touchscreen/synaptics_dsx/synaptics_dsx_i2c.o 

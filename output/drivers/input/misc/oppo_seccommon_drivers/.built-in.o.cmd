@@ -1,1 +1,0 @@
-cmd_drivers/input/misc/oppo_seccommon_drivers/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/input/misc/oppo_seccommon_drivers/built-in.o drivers/input/misc/oppo_seccommon_drivers/oppo_secure_common/built-in.o 

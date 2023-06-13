@@ -1,1 +1,0 @@
-cmd_drivers/iio/imu/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/iio/imu/built-in.o drivers/iio/imu/bmi160/built-in.o drivers/iio/imu/inv_mpu/built-in.o drivers/iio/imu/st_asm330lhh/built-in.o drivers/iio/imu/inv_mpu6050/built-in.o drivers/iio/imu/inv_icm20602/built-in.o 

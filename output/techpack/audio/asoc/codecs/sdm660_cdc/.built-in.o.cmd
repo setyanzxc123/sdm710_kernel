@@ -1,1 +1,0 @@
-cmd_techpack/audio/asoc/codecs/sdm660_cdc/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o techpack/audio/asoc/codecs/sdm660_cdc/built-in.o techpack/audio/asoc/codecs/sdm660_cdc/analog_cdc_dlkm.o techpack/audio/asoc/codecs/sdm660_cdc/digital_cdc_dlkm.o 

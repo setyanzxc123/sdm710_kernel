@@ -1,1 +1,0 @@
-cmd_drivers/media/platform/msm/camera_oppo/cam_cpas/cpas_top/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/media/platform/msm/camera_oppo/cam_cpas/cpas_top/built-in.o drivers/media/platform/msm/camera_oppo/cam_cpas/cpas_top/cam_cpastop_hw.o 

@@ -1,1 +1,0 @@
-cmd_techpack/audio/asoc/codecs/msm_sdw/msm_sdw_dlkm.o := aarch64-linux-gnu-ld -EL   -r -o techpack/audio/asoc/codecs/msm_sdw/msm_sdw_dlkm.o techpack/audio/asoc/codecs/msm_sdw/msm_sdw_cdc.o techpack/audio/asoc/codecs/msm_sdw/msm_sdw_regmap.o techpack/audio/asoc/codecs/msm_sdw/msm-sdw-tables.o techpack/audio/asoc/codecs/msm_sdw/msm_sdw_cdc_utils.o 

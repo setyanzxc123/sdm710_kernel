@@ -1,1 +1,0 @@
-cmd_techpack/audio/asoc/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o techpack/audio/asoc/built-in.o techpack/audio/asoc/codecs/built-in.o techpack/audio/asoc/platform_dlkm.o techpack/audio/asoc/machine_dlkm.o techpack/audio/asoc/cpe_lsm_dlkm.o 

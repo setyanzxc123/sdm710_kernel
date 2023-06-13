@@ -1,1 +1,0 @@
-cmd_drivers/clk/qcom/mdss/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/clk/qcom/mdss/built-in.o drivers/clk/qcom/mdss/mdss-pll-util.o drivers/clk/qcom/mdss/mdss-pll.o drivers/clk/qcom/mdss/mdss-dsi-pll-10nm.o drivers/clk/qcom/mdss/mdss-dp-pll-10nm.o drivers/clk/qcom/mdss/mdss-dp-pll-10nm-util.o 

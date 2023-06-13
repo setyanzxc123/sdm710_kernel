@@ -1,1 +1,0 @@
-cmd_techpack/audio/ipc/apr_dlkm.o := aarch64-linux-gnu-ld -EL   -r -o techpack/audio/ipc/apr_dlkm.o techpack/audio/ipc/apr.o techpack/audio/ipc/apr_v2.o techpack/audio/ipc/apr_tal_glink.o techpack/audio/ipc/apr_dummy.o 

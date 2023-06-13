@@ -1,1 +1,0 @@
-cmd_drivers/media/platform/msm/camera_oppo/cam_sensor_module/cam_res_mgr/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/media/platform/msm/camera_oppo/cam_sensor_module/cam_res_mgr/built-in.o drivers/media/platform/msm/camera_oppo/cam_sensor_module/cam_res_mgr/cam_res_mgr.o 

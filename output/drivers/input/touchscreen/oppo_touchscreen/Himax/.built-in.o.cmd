@@ -1,1 +1,0 @@
-cmd_drivers/input/touchscreen/oppo_touchscreen/Himax/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/input/touchscreen/oppo_touchscreen/Himax/built-in.o drivers/input/touchscreen/oppo_touchscreen/Himax/himax_common.o drivers/input/touchscreen/oppo_touchscreen/Himax/hx83112a_noflash/built-in.o 
