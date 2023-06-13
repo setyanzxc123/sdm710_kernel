@@ -1,0 +1,1 @@
+cmd_drivers/soc/oppo/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/soc/oppo/built-in.o drivers/soc/oppo/oppo_project/built-in.o drivers/soc/oppo/oppo_devinfo/built-in.o drivers/soc/oppo/oppo_als_cali_value/built-in.o 

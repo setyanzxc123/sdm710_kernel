@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/power/supply/built-in.o drivers/power/supply/power_supply.o drivers/power/supply/qcom/built-in.o drivers/power/supply/nx30p6093.o 

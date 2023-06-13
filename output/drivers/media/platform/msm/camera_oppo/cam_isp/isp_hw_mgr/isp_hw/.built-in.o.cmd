@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/camera_oppo/cam_isp/isp_hw_mgr/isp_hw/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/media/platform/msm/camera_oppo/cam_isp/isp_hw_mgr/isp_hw/built-in.o drivers/media/platform/msm/camera_oppo/cam_isp/isp_hw_mgr/isp_hw/ife_csid_hw/built-in.o drivers/media/platform/msm/camera_oppo/cam_isp/isp_hw_mgr/isp_hw/vfe_hw/built-in.o 

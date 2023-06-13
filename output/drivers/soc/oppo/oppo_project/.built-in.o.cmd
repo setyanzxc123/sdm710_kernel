@@ -1,0 +1,1 @@
+cmd_drivers/soc/oppo/oppo_project/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/soc/oppo/oppo_project/built-in.o drivers/soc/oppo/oppo_project/oppo_project.o drivers/soc/oppo/oppo_project/boot_mode.o 

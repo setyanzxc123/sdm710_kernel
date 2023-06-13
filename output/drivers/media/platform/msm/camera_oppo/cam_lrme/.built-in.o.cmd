@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/camera_oppo/cam_lrme/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/media/platform/msm/camera_oppo/cam_lrme/built-in.o drivers/media/platform/msm/camera_oppo/cam_lrme/lrme_hw_mgr/built-in.o drivers/media/platform/msm/camera_oppo/cam_lrme/cam_lrme_dev.o drivers/media/platform/msm/camera_oppo/cam_lrme/cam_lrme_context.o 

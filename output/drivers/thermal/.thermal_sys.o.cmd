@@ -1,0 +1,1 @@
+cmd_drivers/thermal/thermal_sys.o := aarch64-linux-gnu-ld -EL   -r -o drivers/thermal/thermal_sys.o drivers/thermal/thermal_core.o drivers/thermal/thermal_hwmon.o drivers/thermal/of-thermal.o drivers/thermal/step_wise.o drivers/thermal/user_space.o drivers/thermal/gov_low_limits.o drivers/thermal/cpu_cooling.o drivers/thermal/devfreq_cooling.o 

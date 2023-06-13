@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/camera_oppo/cam_isp/isp_hw_mgr/hw_utils/irq_controller/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/media/platform/msm/camera_oppo/cam_isp/isp_hw_mgr/hw_utils/irq_controller/built-in.o drivers/media/platform/msm/camera_oppo/cam_isp/isp_hw_mgr/hw_utils/irq_controller/cam_irq_controller.o 

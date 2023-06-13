@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/camera_oppo/cam_sensor_module/cam_ois/lc898123f40_update/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/media/platform/msm/camera_oppo/cam_sensor_module/cam_ois/lc898123f40_update/built-in.o drivers/media/platform/msm/camera_oppo/cam_sensor_module/cam_ois/lc898123f40_update/PhoneUpdate.o 

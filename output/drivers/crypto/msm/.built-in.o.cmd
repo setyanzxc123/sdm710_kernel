@@ -1,0 +1,1 @@
+cmd_drivers/crypto/msm/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/crypto/msm/built-in.o drivers/crypto/msm/qce50.o drivers/crypto/msm/qcedevice.o drivers/crypto/msm/qcrypto.o drivers/crypto/msm/ice.o 

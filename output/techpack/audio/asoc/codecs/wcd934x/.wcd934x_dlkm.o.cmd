@@ -1,0 +1,1 @@
+cmd_techpack/audio/asoc/codecs/wcd934x/wcd934x_dlkm.o := aarch64-linux-gnu-ld -EL   -r -o techpack/audio/asoc/codecs/wcd934x/wcd934x_dlkm.o techpack/audio/asoc/codecs/wcd934x/wcd934x.o techpack/audio/asoc/codecs/wcd934x/wcd934x-dsp-cntl.o techpack/audio/asoc/codecs/wcd934x/wcd934x-mbhc.o techpack/audio/asoc/codecs/wcd934x/wcd934x-dsd.o 

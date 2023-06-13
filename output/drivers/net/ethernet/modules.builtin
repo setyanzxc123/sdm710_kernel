@@ -1,0 +1,2 @@
+kernel/drivers/net/ethernet/marvell/sky2.ko
+kernel/drivers/net/ethernet/smsc/smsc911x.ko

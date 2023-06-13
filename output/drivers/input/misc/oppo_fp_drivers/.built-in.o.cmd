@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/oppo_fp_drivers/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/input/misc/oppo_fp_drivers/built-in.o drivers/input/misc/oppo_fp_drivers/oppo_fp_common/built-in.o drivers/input/misc/oppo_fp_drivers/fpc/built-in.o 

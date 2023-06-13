@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/camera_oppo/cam_sync/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/media/platform/msm/camera_oppo/cam_sync/built-in.o drivers/media/platform/msm/camera_oppo/cam_sync/cam_sync.o drivers/media/platform/msm/camera_oppo/cam_sync/cam_sync_util.o 

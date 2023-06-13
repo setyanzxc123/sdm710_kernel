@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/qcom/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/pinctrl/qcom/built-in.o drivers/pinctrl/qcom/pinctrl-msm.o drivers/pinctrl/qcom/pinctrl-spmi-gpio.o drivers/pinctrl/qcom/pinctrl-spmi-mpp.o drivers/pinctrl/qcom/pinctrl-sdm670.o 

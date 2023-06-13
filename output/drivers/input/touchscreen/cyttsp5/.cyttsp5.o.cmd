@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/cyttsp5/cyttsp5.o := aarch64-linux-gnu-ld -EL   -r -o drivers/input/touchscreen/cyttsp5/cyttsp5.o drivers/input/touchscreen/cyttsp5/cyttsp5_core.o drivers/input/touchscreen/cyttsp5/cyttsp5_mt_common.o drivers/input/touchscreen/cyttsp5/cyttsp5_mtb.o drivers/input/touchscreen/cyttsp5/cyttsp5_btn.o drivers/input/touchscreen/cyttsp5/cyttsp5_proximity.o 

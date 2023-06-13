@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/camera_oppo/cam_smmu/built-in.o :=  aarch64-linux-gnu-ld -EL   -r -o drivers/media/platform/msm/camera_oppo/cam_smmu/built-in.o drivers/media/platform/msm/camera_oppo/cam_smmu/cam_smmu_api.o 
